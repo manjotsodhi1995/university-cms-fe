@@ -1,0 +1,8 @@
+#root {
+  text-align: center;
+}
+
+.custom-modal .mantine-Modal-inner {
+  justify-content: flex-start !important;
+  margin: 0px -1000px;
+}
